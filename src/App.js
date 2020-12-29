@@ -123,7 +123,7 @@ const App = () => {
     <Suspense
       fallback={
         <div className="col text-center p-5">
-          __ LeafRoomsEra<LoadingOutlined /> __
+          __ RoomOnline<LoadingOutlined /> __
         </div>
       }
     >
