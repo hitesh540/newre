@@ -1,0 +1,31 @@
+.slider img,
+.card-image {
+  height: 450px;
+  object-fit: cover;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.frame {
+  height: 350px;
+ width: 100%;
+}
+  
+.futer {
+  background-color: lightyellow;
+}
+
+
+.fute {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+.fute:hover {
+  color: sandybrown;
+}

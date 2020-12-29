@@ -1,0 +1,9 @@
+{
+  "short_name": "RoomOnline",
+  "name": "The Rising Chain of Online Room Bookings",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+ 
